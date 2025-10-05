@@ -20,3 +20,6 @@ Aplikasi ini dibuat untuk membantu mahasiswa mengatur jadwal kuliah serta mengin
 2. Jalankan perintah:
    ```bash
    python app.py
+
+Link Google Drive
+https://drive.google.com/drive/folders/1YrdgEqK3Jwg5ibpElRUNf24C09fm1wMS?usp=drive_link

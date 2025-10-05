@@ -4,7 +4,7 @@ Aplikasi jadwal kuliah dan pengingat tugas berbasis Tkinter &amp; SQLite
 # Anggota Kelompok
 - Benediktus Daniel Afriant (1203230005)
 - Maria Rosa Wahyuning Utami (1203230123)
-- Fandi Ardiansyah ( 
+- Fandi Ardiansyah (1203230079)
 -
 
 # Deskripsi
